@@ -16,10 +16,11 @@ public static void main(String[] args) {
 }
 ```
 **Class Hierarchy For Package java.util (sub menu demo)**
-Java.util
-  - java.lang.Object
-    - java.util.Arrays
-    - java.util.Base64
-    - java.util.Optional<T>
-    - java.util.Random
-    - java.util.Scanner
+
+  Java.util
+    - java.lang.Object
+      - java.util.Arrays
+      - java.util.Base64
+      - java.util.Optional<T>
+      - java.util.Random
+      - java.util.Scanner
