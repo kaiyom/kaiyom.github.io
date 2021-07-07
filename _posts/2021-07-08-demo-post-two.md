@@ -19,7 +19,7 @@ public static void main(String[] args) {
 
 **Class Hierarchy For Package java.util**
 
-Java.util
+- Java.util
   - java.lang.Object
     - java.util.Arrays
     - java.util.Base64
