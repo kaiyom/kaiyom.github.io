@@ -1,6 +1,5 @@
 ---
-title: "Demo post Two"
-
+title: "Demo markdown post Two"
 categories:
   - Markdown
 tags:
