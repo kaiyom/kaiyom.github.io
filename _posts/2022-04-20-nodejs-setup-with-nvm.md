@@ -1,7 +1,6 @@
 ---
 title: Nodejs setup with NVM
 author: Kaiyom
-date: 2022-04-20 06:30:00 -0001
 categories: 
   - Setup
 tags: 
