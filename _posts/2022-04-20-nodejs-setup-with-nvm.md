@@ -10,8 +10,8 @@ tags:
   - backend
 ---
 
-## NVM (Node Version Manager) installation 
-(here) [https://github.com/nvm-sh/nvm#install--update-script]
+
+## NVM (Node Version Manager) installation [here] (https://github.com/nvm-sh/nvm#install--update-script)
 
 ## Use NVM
 
@@ -45,4 +45,4 @@ Install yarn
 npm install --global yarn
 ```
 
-> Know more about available NVM flags (here)[https://ostechnix.com/install-node-js-linux/]
+> Know more about available NVM flags [here] (https://ostechnix.com/install-node-js-linux/)
