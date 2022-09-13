@@ -2,11 +2,17 @@
 title: Nodejs setup with NVM
 author: Kaiyom
 date: 2022-04-20 06:30:00 -0001
-categories: [Environment-setup]
-tags: [nodejs,npm,js,backend]
+categories: 
+  - Setup
+tags: 
+  - nodejs
+  - npm
+  - js
+  - backend
 ---
 
-## NVM (Node Version Manager) installation (here) [https://github.com/nvm-sh/nvm#install--update-script]
+## NVM (Node Version Manager) installation 
+(here) [https://github.com/nvm-sh/nvm#install--update-script]
 
 ## Use NVM
 
